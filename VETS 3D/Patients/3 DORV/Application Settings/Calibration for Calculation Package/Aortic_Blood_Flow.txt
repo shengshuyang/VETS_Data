@@ -1,0 +1,6 @@
+Velocity Marker 1:344,352
+Velocity Marker 2:346,422
+Time Marker 1:670,753
+Time Marker 2:670,753
+Distance Marker 1:739,163
+Distance Marker 2:1023,417
