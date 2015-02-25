@@ -1,0 +1,5 @@
+Cut,Azimuth Min,Azimuth Max,Pitch Min,Pitch Max,Roll Min,Roll Max,Color,Doppler,Mmode
+Suprasternal Aortic Arch,-179,-150,-60,-40,-179,-160,Present,Present,Default
+Suprasternal Ductal Cut,150,179,-60,-40,-155,-130,Present,Default,Default
+Suprasternal Crab View,-179,-150,-55,-25,-120,-85,Present,Default,Default
+Suprasternal Innominate,-75,-50,-95,-70,145,175,Present,Default,Default

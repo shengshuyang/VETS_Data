@@ -1,0 +1,11 @@
+Cut,Azimuth Min,Azimuth Max,Pitch Min,Pitch Max,Roll Min,Roll Max,Color,Doppler,Mmode
+Subcostal Coronal Post,-20,0,-60,-54,80,110,Present,Default,Default
+Subcostal Coronal Aorta,-20,0,-53,-45,80,110,Present,Default,Default
+Subcostal Coronal Ant,-10,10,-43,-30,80,110,Present,Default,Default
+Subcostal Sagital Apex,20,35,-55,-30,115,150,Present,Default,Default
+Subcostal Sagital RVOT,0,19,-55,-30,135,170,Present,Default,Default
+Subcostal Sag Aorta,-18,-1,-55,-30,150,170,Present,Default,Default
+Subcostal Sagital Bicaval,-35,-19,-55,-25,150,179,Present,Present,Default
+Subcostal Transverse Cut,-70,-30,-95,-70,90,140,Present,Default,Default
+Subcostal Long Aorta,-20,0,-95,-70,-10,14,Present,Default,Default
+Subcostal Long IVC,-90,-60,-90,-60,55,100,Present,Default,Default

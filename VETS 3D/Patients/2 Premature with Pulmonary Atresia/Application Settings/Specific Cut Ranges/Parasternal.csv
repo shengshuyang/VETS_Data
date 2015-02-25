@@ -1,0 +1,8 @@
+Cut,Azimuth Min,Azimuth Max,Pitch Min,Pitch Max,Roll Min,Roll Max,Color,Doppler,Mmode
+Parasternal LAX,-179,-160,-90,-60,120,150,Present,Default,Present
+Parasternal RVOT,75,135,-90,-60,-160,-100,Present,Present,Default
+Parasternal RVIN,-179,-150,-80,-50,80,110,Present,Default,Default
+Parasternal SAX Apex,145,179,-50,-40,-135,-110,Present,Default,Default
+Parasternal SAX Papillary,150,179,-60,-51,-135,-110,Present,Default,Default
+Parasternal SAX Mitral,150,179,-72,-61,-150,-115,Present,Default,Present
+Parasternal SAX base,-120,-60,-90,-73,130,170,Present,Present,Present
