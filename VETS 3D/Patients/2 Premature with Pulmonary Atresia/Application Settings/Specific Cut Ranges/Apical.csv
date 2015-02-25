@@ -1,5 +1,5 @@
 Cut,Azimuth Min,Azimuth Max,Pitch Min,Pitch Max,Roll Min,Roll Max,Color,Doppler,Mmode
-Apical 4 Chamber Posterior,-110,-98,-55,-40,160,1179,Present,Default,Default
-Apical 4 Cham,-90,-65,-55,-30,150,179,Present,Present,Default
-Apical 5 Cham,-64,-50,-55,-30,150,179,Present,Present,Default
+Apical 4 Chamber Posterior,-110,-98,-55,-40,160,179,Present,Default,Default
+Apical 4 Cham,-90,-74,-55,-30,150,179,Present,Present,Default
+Apical 5 Cham,-73,-55,-55,-30,150,179,Present,Present,Default
 Apical RVOT,-57,-40,-45,-20,150,179,Present,Default,Default
